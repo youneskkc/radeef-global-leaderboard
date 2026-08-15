@@ -1,0 +1,242 @@
+{
+  "asOf": "2026-07-01",
+  "globalContext": {
+    "netcraftDomains": 304146307,
+    "netcraftSites": 1489396284,
+    "oprDomainUniverse": 118000000,
+    "netcraftAsOf": "يونيو 2026"
+  },
+  "sites": [
+    {
+      "position": 1,
+      "name": "يونس بن عمارة",
+      "domain": "youdo.blog",
+      "url": "https://youdo.blog/",
+      "description": "كاتب ومترجم وصانع محتوى، مؤسس مجتمع رديف.",
+      "score": 3.96,
+      "rank": 477937,
+      "rankUniverse": "domains"
+    },
+    {
+      "position": 2,
+      "name": "مدونة م.طارق الموصللي",
+      "domain": "almouslli.com",
+      "url": "https://almouslli.com/",
+      "description": "مدونة شخصية لحياة أقرب للأحلام.",
+      "score": 1.33,
+      "rank": 7832917,
+      "rankUniverse": "domains"
+    },
+    {
+      "position": 3,
+      "name": "أحمد السعود",
+      "domain": "ahmadalsuood.art.blog",
+      "url": "https://ahmadalsuood.art.blog/",
+      "description": "مدونة فنية على نطاق فرعي.",
+      "score": 0.57,
+      "rank": 91620830,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 4,
+      "name": "ترسم",
+      "domain": "trysm.art.blog",
+      "url": "https://trysm.art.blog/",
+      "description": "مدونة فنية على نطاق فرعي.",
+      "score": 0.4,
+      "rank": 136262898,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 5,
+      "name": "حنين حاتم (كلمات مسحورة)",
+      "domain": "magicalwordss.wordpress.com",
+      "url": "https://magicalwordss.wordpress.com/",
+      "description": "عالم من الكلمات المسحورة.",
+      "score": 0.38,
+      "rank": 71450271,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 6,
+      "name": "مدونة دينا الهواري",
+      "domain": "dinalhawary100906679.wordpress.com",
+      "url": "https://dinalhawary100906679.wordpress.com/",
+      "description": "ركن مطمئن للكتابة والتأمل.",
+      "score": 0.37,
+      "rank": 84646951,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 7,
+      "name": "ندى الرّيم",
+      "domain": "nadalerim.com",
+      "url": "http://nadalerim.com/",
+      "description": "مدونة شخصية مستقلة.",
+      "score": 0.28,
+      "rank": 39694461,
+      "rankUniverse": "domains"
+    },
+    {
+      "position": 8,
+      "name": "مدونة هشام فرج",
+      "domain": "ihesham.com",
+      "url": "https://ihesham.com/",
+      "description": "أملي أن يبقى الأثر.",
+      "score": 0.27,
+      "rank": 67928707,
+      "rankUniverse": "domains"
+    },
+    {
+      "position": 9,
+      "name": "بكر الحربي",
+      "domain": "bakral2030.wordpress.com",
+      "url": "https://bakral2030.wordpress.com/",
+      "description": "كاتب محتوى ينحت الكلمات لتبقى خالدة.",
+      "score": 0.27,
+      "rank": 93237063,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 10,
+      "name": "نحو النمو الشخصي",
+      "domain": "saadaalzahrani.wordpress.com",
+      "url": "https://saadaalzahrani.wordpress.com/",
+      "description": "مساحة للنمو الشخصي.",
+      "score": 0.27,
+      "rank": 93237073,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 11,
+      "name": "دفتر علي سعد",
+      "domain": "personal-blog.alisaad-translation.com",
+      "url": "https://personal-blog.alisaad-translation.com/",
+      "description": "دفتر تدوينات يفتح على ما يسرّك.",
+      "score": 0.27,
+      "rank": 126535320,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 12,
+      "name": "مدونة عاليا عبدالله",
+      "domain": "copywriter461.wordpress.com",
+      "url": "https://copywriter461.wordpress.com/",
+      "description": "مدونة كاتبة محتوى.",
+      "score": 0.27,
+      "rank": 126535321,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 13,
+      "name": "مدونة بيان",
+      "domain": "bayanthreads.wordpress.com",
+      "url": "https://bayanthreads.wordpress.com/",
+      "description": "مدونة كاتبة محتوى من السعودية.",
+      "score": 0.27,
+      "rank": 136263068,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 14,
+      "name": "مدونة ابتهال شهاب",
+      "domain": "ebtihalshehab.wordpress.com",
+      "url": "https://ebtihalshehab.wordpress.com/",
+      "description": "معلمة لغة إنجليزية ومترجمة تهوى الكتابة.",
+      "score": 0.27,
+      "rank": 136263082,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 15,
+      "name": "مدونة هارون تيم",
+      "domain": "harounmo7tawa.wordpress.com",
+      "url": "https://harounmo7tawa.wordpress.com/",
+      "description": "نشرات بريدية واستراتيجية وبناء علامة شخصية.",
+      "score": 0.27,
+      "rank": 136263099,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 16,
+      "name": "مدونة تشافي",
+      "domain": "iiwi8.wordpress.com",
+      "url": "https://iiwi8.wordpress.com/",
+      "description": "مدونة شخصية.",
+      "score": 0.27,
+      "rank": 136263112,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 17,
+      "name": "رازان",
+      "domain": "razanoj.wordpress.com",
+      "url": "https://razanoj.wordpress.com/",
+      "description": "مدونة على نطاق فرعي.",
+      "score": 0.27,
+      "rank": 136263164,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 18,
+      "name": "عائشه عطيه",
+      "domain": "aishahatiah.wordpress.com",
+      "url": "https://aishahatiah.wordpress.com/",
+      "description": "كاتبة محتوى مالي ومحاسبي.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 19,
+      "name": "مدونة ربيع إسماعيل",
+      "domain": "elrabieismail.wordpress.com",
+      "url": "https://elrabieismail.wordpress.com/",
+      "description": "محاولات لفهم الذات والعالم وتوثيق الرحلة.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 20,
+      "name": "شيماء الحصان",
+      "domain": "linguistshaimaa.wordpress.com",
+      "url": "https://linguistshaimaa.wordpress.com/",
+      "description": "مترجمة وكاتبة محتوى ومتخصصة في تعريب البرامج والمواقع.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 21,
+      "name": "مدونة هناء المر",
+      "domain": "manelher.wordpress.com",
+      "url": "https://manelher.wordpress.com/",
+      "description": "مدونة على نطاق فرعي.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 22,
+      "name": "مدوّنة سهام سلطان",
+      "domain": "sehamtransl7.wordpress.com",
+      "url": "https://sehamtransl7.wordpress.com/",
+      "description": "مترجمة وكاتبة محتوى.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 23,
+      "name": "مدّونة ندى!",
+      "domain": "thewizardnada.wordpress.com",
+      "url": "https://thewizardnada.wordpress.com/",
+      "description": "مدونة على نطاق فرعي.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    }
+  ],
+  "updatedAt": "2026-08-15T09:05:37.680Z"
+}
