@@ -33,8 +33,8 @@
       "domain": "ahmadalsuood.art.blog",
       "url": "https://ahmadalsuood.art.blog/",
       "description": "مدونة فنية على نطاق فرعي.",
-      "score": 0.57,
-      "rank": 91620830,
+      "score": 0.42,
+      "rank": 107847339,
       "rankUniverse": "hosts"
     },
     {
@@ -43,8 +43,8 @@
       "domain": "trysm.art.blog",
       "url": "https://trysm.art.blog/",
       "description": "مدونة فنية على نطاق فرعي.",
-      "score": 0.4,
-      "rank": 136262898,
+      "score": 0.3,
+      "rank": 128805386,
       "rankUniverse": "hosts"
     },
     {
@@ -53,8 +53,8 @@
       "domain": "magicalwordss.wordpress.com",
       "url": "https://magicalwordss.wordpress.com/",
       "description": "عالم من الكلمات المسحورة.",
-      "score": 0.38,
-      "rank": 71450271,
+      "score": 0.29,
+      "rank": 68271898,
       "rankUniverse": "hosts"
     },
     {
@@ -63,12 +63,32 @@
       "domain": "dinalhawary100906679.wordpress.com",
       "url": "https://dinalhawary100906679.wordpress.com/",
       "description": "ركن مطمئن للكتابة والتأمل.",
-      "score": 0.37,
-      "rank": 84646951,
+      "score": 0.29,
+      "rank": 97811159,
       "rankUniverse": "hosts"
     },
     {
       "position": 7,
+      "name": "دفتر علي سعد",
+      "domain": "personal-blog.alisaad-translation.com",
+      "url": "https://personal-blog.alisaad-translation.com/",
+      "description": "دفتر تدوينات يفتح على ما يسرّك.",
+      "score": 0.28,
+      "rank": 107847340,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 8,
+      "name": "مدونة بيان",
+      "domain": "bayanthreads.wordpress.com",
+      "url": "https://bayanthreads.wordpress.com/",
+      "description": "مدونة كاتبة محتوى من السعودية.",
+      "score": 0.28,
+      "rank": 110107918,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 9,
       "name": "مدونة هشام فرج",
       "domain": "ihesham.com",
       "url": "https://ihesham.com/",
@@ -78,97 +98,57 @@
       "rankUniverse": "domains"
     },
     {
-      "position": 8,
-      "name": "بكر الحربي",
-      "domain": "bakral2030.wordpress.com",
-      "url": "https://bakral2030.wordpress.com/",
-      "description": "كاتب محتوى ينحت الكلمات لتبقى خالدة.",
-      "score": 0.27,
-      "rank": 93237063,
-      "rankUniverse": "hosts"
-    },
-    {
-      "position": 9,
-      "name": "نحو النمو الشخصي",
-      "domain": "saadaalzahrani.wordpress.com",
-      "url": "https://saadaalzahrani.wordpress.com/",
-      "description": "مساحة للنمو الشخصي.",
-      "score": 0.27,
-      "rank": 93237073,
-      "rankUniverse": "hosts"
-    },
-    {
       "position": 10,
-      "name": "دفتر علي سعد",
-      "domain": "personal-blog.alisaad-translation.com",
-      "url": "https://personal-blog.alisaad-translation.com/",
-      "description": "دفتر تدوينات يفتح على ما يسرّك.",
-      "score": 0.27,
-      "rank": 126535320,
-      "rankUniverse": "hosts"
-    },
-    {
-      "position": 11,
       "name": "مدونة عاليا عبدالله",
       "domain": "copywriter461.wordpress.com",
       "url": "https://copywriter461.wordpress.com/",
       "description": "مدونة كاتبة محتوى.",
-      "score": 0.27,
-      "rank": 126535321,
+      "score": 0.18,
+      "rank": 123184923,
       "rankUniverse": "hosts"
     },
     {
-      "position": 12,
-      "name": "مدونة بيان",
-      "domain": "bayanthreads.wordpress.com",
-      "url": "https://bayanthreads.wordpress.com/",
-      "description": "مدونة كاتبة محتوى من السعودية.",
-      "score": 0.27,
-      "rank": 136263068,
-      "rankUniverse": "hosts"
-    },
-    {
-      "position": 13,
+      "position": 11,
       "name": "مدونة ابتهال شهاب",
       "domain": "ebtihalshehab.wordpress.com",
       "url": "https://ebtihalshehab.wordpress.com/",
       "description": "معلمة لغة إنجليزية ومترجمة تهوى الكتابة.",
-      "score": 0.27,
-      "rank": 136263082,
+      "score": 0.18,
+      "rank": 128805536,
       "rankUniverse": "hosts"
     },
     {
-      "position": 14,
+      "position": 12,
       "name": "مدونة هارون تيم",
       "domain": "harounmo7tawa.wordpress.com",
       "url": "https://harounmo7tawa.wordpress.com/",
       "description": "نشرات بريدية واستراتيجية وبناء علامة شخصية.",
-      "score": 0.27,
-      "rank": 136263099,
+      "score": 0.18,
+      "rank": 128805553,
       "rankUniverse": "hosts"
     },
     {
-      "position": 15,
+      "position": 13,
       "name": "مدونة تشافي",
       "domain": "iiwi8.wordpress.com",
       "url": "https://iiwi8.wordpress.com/",
       "description": "مدونة شخصية.",
-      "score": 0.27,
-      "rank": 136263112,
+      "score": 0.18,
+      "rank": 128805565,
       "rankUniverse": "hosts"
     },
     {
-      "position": 16,
+      "position": 14,
       "name": "رازان",
       "domain": "razanoj.wordpress.com",
       "url": "https://razanoj.wordpress.com/",
       "description": "مدونة على نطاق فرعي.",
-      "score": 0.27,
-      "rank": 136263164,
+      "score": 0.18,
+      "rank": 128805607,
       "rankUniverse": "hosts"
     },
     {
-      "position": 17,
+      "position": 15,
       "name": "ندى الرّيم",
       "domain": "nadalerim.com",
       "url": "http://nadalerim.com/",
@@ -176,6 +156,26 @@
       "score": 0.09,
       "rank": 53960680,
       "rankUniverse": "domains"
+    },
+    {
+      "position": 16,
+      "name": "بكر الحربي",
+      "domain": "bakral2030.wordpress.com",
+      "url": "https://bakral2030.wordpress.com/",
+      "description": "كاتب محتوى ينحت الكلمات لتبقى خالدة.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
+    },
+    {
+      "position": 17,
+      "name": "نحو النمو الشخصي",
+      "domain": "saadaalzahrani.wordpress.com",
+      "url": "https://saadaalzahrani.wordpress.com/",
+      "description": "مساحة للنمو الشخصي.",
+      "score": null,
+      "rank": null,
+      "rankUniverse": "hosts"
     },
     {
       "position": 18,
@@ -238,5 +238,5 @@
       "rankUniverse": "hosts"
     }
   ],
-  "updatedAt": "2026-08-29T07:00:47.346Z"
+  "updatedAt": "2026-08-29T16:41:12.619Z"
 }
